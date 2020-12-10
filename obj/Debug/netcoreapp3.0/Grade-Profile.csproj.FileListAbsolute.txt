@@ -1,0 +1,22 @@
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\Grade-Profile\obj\Debug\netcoreapp3.0\Grade-Profile.csprojAssemblyReference.cache
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\Grade-Profile\obj\Debug\netcoreapp3.0\Grade-Profile.AssemblyInfoInputs.cache
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\Grade-Profile\obj\Debug\netcoreapp3.0\Grade-Profile.AssemblyInfo.cs
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\Grade-Profile\bin\Debug\netcoreapp3.0\Grade-Profile.exe
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\Grade-Profile\bin\Debug\netcoreapp3.0\Grade-Profile.deps.json
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\Grade-Profile\bin\Debug\netcoreapp3.0\Grade-Profile.runtimeconfig.json
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\Grade-Profile\bin\Debug\netcoreapp3.0\Grade-Profile.runtimeconfig.dev.json
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\Grade-Profile\bin\Debug\netcoreapp3.0\Grade-Profile.dll
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\Grade-Profile\bin\Debug\netcoreapp3.0\Grade-Profile.pdb
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\Grade-Profile\obj\Debug\netcoreapp3.0\Grade-Profile.dll
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\Grade-Profile\obj\Debug\netcoreapp3.0\Grade-Profile.pdb
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 010\Grade-Profile\bin\Debug\netcoreapp3.0\Grade-Profile.exe
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 010\Grade-Profile\bin\Debug\netcoreapp3.0\Grade-Profile.deps.json
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 010\Grade-Profile\bin\Debug\netcoreapp3.0\Grade-Profile.runtimeconfig.json
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 010\Grade-Profile\bin\Debug\netcoreapp3.0\Grade-Profile.runtimeconfig.dev.json
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 010\Grade-Profile\bin\Debug\netcoreapp3.0\Grade-Profile.dll
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 010\Grade-Profile\bin\Debug\netcoreapp3.0\Grade-Profile.pdb
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 010\Grade-Profile\obj\Debug\netcoreapp3.0\Grade-Profile.csprojAssemblyReference.cache
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 010\Grade-Profile\obj\Debug\netcoreapp3.0\Grade-Profile.AssemblyInfoInputs.cache
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 010\Grade-Profile\obj\Debug\netcoreapp3.0\Grade-Profile.AssemblyInfo.cs
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 010\Grade-Profile\obj\Debug\netcoreapp3.0\Grade-Profile.dll
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 010\Grade-Profile\obj\Debug\netcoreapp3.0\Grade-Profile.pdb
